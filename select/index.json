@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "千羽物語",
+  "base_artist": "霜月はるか",
+  "createdAt": "2026-02-07T14:18:47.205759Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "千羽物語",
+      "artist": "霜月はるか",
+      "has_synced": false,
+      "path": "select/pl_01_千羽物語_霜月はるか.txt"
+    }
+  ]
+}
